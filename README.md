@@ -1,1 +1,1 @@
-# A demo showing git push command
+# A demo showing git push command.
